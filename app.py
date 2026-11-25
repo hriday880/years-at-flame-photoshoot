@@ -1,0 +1,1 @@
+from AppUpdate import app

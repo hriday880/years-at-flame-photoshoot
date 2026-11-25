@@ -1,0 +1,9 @@
+.venv/
+.env
+.vercel/
+__pycache__/
+*.pyc
+registrations.jsonl
+registrations.xlsx
+*.tmp
+.DS_Store
